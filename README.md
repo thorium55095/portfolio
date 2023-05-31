@@ -4,6 +4,10 @@
 
 ## Group Projects:
 
+### BREACH Gantt Chart
+
+A [plan](https://docs.google.com/spreadsheets/d/1J6GKBTyqIrBM73ZpL0BXzlJh03pcNf9Ylj9XMmmKJmw/edit?pli=1#gid=0), not a program.
+
 ### BREACH
 
 Text game in a cyberpunk setting. You will hunt for passwords, collect fragments and go through the story.
