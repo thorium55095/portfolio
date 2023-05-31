@@ -22,6 +22,6 @@ Cipher based on randomly generated sequences.
 
 [Input values]https://github.com/thorium55095/portfolio/blob/main/Screen%20Shot%202023-05-31%20at%208.12.36%20AM.png
 
-[Encrypted output]
+[Encrypted output]https://github.com/thorium55095/portfolio/blob/main/Screen%20Shot%202023-05-31%20at%208.12.49%20AM.png
 
-[Repl]
+[Repl]https://replit.com/@MIKETORIANYK/T-cipher
