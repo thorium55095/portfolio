@@ -20,6 +20,8 @@ Text game in a cyberpunk setting. You will hunt for passwords, collect fragments
 
 Cipher based on randomly generated sequences.
 
-[Running Code]
+[Input values]https://github.com/thorium55095/portfolio/blob/main/Screen%20Shot%202023-05-31%20at%208.12.36%20AM.png
+
+[Encrypted output]
 
 [Repl]
