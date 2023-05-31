@@ -14,6 +14,12 @@ Text game in a cyberpunk setting. You will hunt for passwords, collect fragments
 
 ## Semester 1 Projects:
 
+### Number to String
+
+A pseudocode, so I can't provide the screen shot of its work.
+
+[Source](https://github.com/thorium55095/portfolio/blob/main/NumToStr%20pseudo.rtf)
+
 ## Semester 2 Projects:
 
 ### T-Cipher
