@@ -24,7 +24,9 @@ A pseudocode, so I can't provide the screen shot of its work.
 
 Creates parent and child classes.
 
-[Zip]https://github.com/thorium55095/portfolio/blob/main/src%20copy.zip
+[Screenshot](https://github.com/thorium55095/portfolio/blob/main/Screen%20Shot%202023-05-31%20at%208.29.26%20AM.png)
+
+[Zip](https://github.com/thorium55095/portfolio/blob/main/src%20copy.zip)
 
 ## Semester 2 Projects:
 
